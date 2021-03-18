@@ -184,5 +184,6 @@
   "heartImg": "https://storage.googleapis.com/assets/images/common/heart.png",
   "chatImg": "https://storage.googleapis.com/assets/images/common/chat.png",
   "repairPhoneImg": "https://storage.googleapis.com/assets/images/common/repair-phone.png",
-  "repairSec4Img": "https://storage.googleapis.com/assets/images/common/repair-sec4.png"
+  "repairSec4Img": "https://storage.googleapis.com/assets/images/common/repair-sec4.png",
+  "loaderGif": "https://storage.googleapis.com/assets/images/common/loading.gif"
 }
